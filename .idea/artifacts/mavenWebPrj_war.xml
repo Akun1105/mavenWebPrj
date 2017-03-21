@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mavenWebPrj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mavenWebPrj-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mavenWebPrj:war exploded" />
+    </root>
+  </artifact>
+</component>
